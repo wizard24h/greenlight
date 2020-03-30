@@ -228,7 +228,7 @@ it:
     welcome: Benvenuti su BigBlueButton.
     video: Guarda il tutorial sull'utilizzo di GreenLight
     upgrade: Mostrami come aggiornare alla versione 2.0!
-    version: "E' stata rilasciata una nuova versione di GreenLight, ma il tuo database non è compatibile."
+    version: "E' stata rilasciata una nuova versione di e-solutionsgroup, ma il tuo database non è compatibile."
   language_default: Predefinito (linguaggio del browser)
   ldap_error: Impossibile collegarsi al server LDAP. Controlla la configurazione LDAP nel file env e assicurati che il server sia attivo.
   login: Entra

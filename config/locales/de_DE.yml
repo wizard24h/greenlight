@@ -36,7 +36,7 @@ de_DE:
         enabled: Aktiviert
         info: Nur authentifizierte Nutzer dürfen diesen Raum betreten
         title: Betreten des Raums erfordert Authentifizierung
-        user-info: "Sie müssen in Greenlight eingeloggt sein, um diesen Raum zu betreten"
+        user-info: "Sie müssen in e-solutionsgroup eingeloggt sein, um diesen Raum zu betreten"
       branding:
         change: Bild ändern
         info: Das in der linken oberen Ecke dargestellte Markenlogo ändern
@@ -195,7 +195,7 @@ de_DE:
       notice: >
         Greenlight hat einen Datenbankmigrationsfehler bemerkt.<br> Dies kann auftreten, weil Sie noch nicht auf Greenlight 2.0. upgedatet haben.
       upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
-      version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+      version: "Wir haben eine neue Version von e-solutionsgroup veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
     messages:
       blank: kann nicht leer sein
       too_short: ist zu kurz
@@ -206,7 +206,7 @@ de_DE:
       inclusion: ist nicht Teil der Liste
     no_provider:
       message: "Die Seite, auf die Sie versuchen zuzugreifen, ist nicht aktiviert."
-      help: "Bitte kontaktieren Sie Ihren Systemadministrator, damit er Greenlight einrichtet."
+      help: "Bitte kontaktieren Sie Ihren Systemadministrator, damit er e-solutionsgroup einrichtet."
     not_found:
       message: Tut uns leid! Die aufgerufene Seite existiert nicht.
       help: "Ist es möglich, dass es entfernt wurde?"
@@ -262,7 +262,7 @@ de_DE:
     welcome: Willkommen zu BigBlueButton.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
-    version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
+    version: "Wir haben eine neue Version von e-solutionsgroup veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
   ldap_error: "Verbindung zum LDAP Server konnte nicht hergestellt werden. Bitte überprüfen Sie die LDAP Konfiguration und stellen Sie sicher, dass der LDAP-Server läuft."
   login: Einloggen
@@ -275,7 +275,7 @@ de_DE:
         signin_link: Einloggen
         signup:
           info: Ein neuer Nutzer hat sich bei Greenlight angemeldet.
-          more-info: "Um diesem Nutzer Zugriff auf Greenlight zu geben, müssen Sie seinen Account in den Organisationseinstellungen genehmigen."
+          more-info: "Um diesem Nutzer Zugriff auf e-solutionsgroup zu geben, müssen Sie seinen Account in den Organisationseinstellungen genehmigen."
           admins_link: Organisationsseite besuchen
           subject: Neue Greenlight Nutzerregistrierung
           username: "Der Nutzer hat sich mit dem Namen %{name} und der Email %{email} registriert."

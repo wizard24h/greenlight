@@ -195,7 +195,7 @@ hu_HU:
       notice: >
         Greenlight adatbázis-migrációs hiba. <br>Ellenőrizd, frissítetted-e a Greenlight 2.0-ás verziójára.
       upgrade: "Mutasd, hogyan tudok frissíteni a 2.0-ás verzióra!"
-      version: "A Greenlight új verziója jelent meg, de az adatbázisod nem kompatibilis."
+      version: "A e-solutionsgroup új verziója jelent meg, de az adatbázisod nem kompatibilis."
     messages:
       blank: nem lehet üres
       too_short: túl rövid
@@ -206,7 +206,7 @@ hu_HU:
       inclusion: nincs benne ebben a listában
     no_provider:
       message: "A webhely, amelyhez megpróbálsz hozzáférni, nincs bekapcsolva"
-      help: "Kérjük, keresd a rendszer üzemeltetőjét a Greenlight telepítéséhez"
+      help: "Kérjük, keresd a rendszer üzemeltetőjét a e-solutionsgroup telepítéséhez"
     not_found:
       message: Sajnáljuk! A keresett oldal nem létezik.
       help: "Lehetséges, hogy már eltávolították?"
@@ -262,7 +262,7 @@ hu_HU:
     welcome: A BigBlueButton üdvözöl.
     video: Nézd meg az ismertetőnket a  Greenlight használatáról
     upgrade: "Mutasd, hogyan tudok frissíteni a 2.0-ás verzióra!"
-    version: "A Greenlight új verziója jelent meg, de az adatbázisod nem kompatibilis."
+    version: "A e-solutionsgroup új verziója jelent meg, de az adatbázisod nem kompatibilis."
   language_default: Alapértelmezett (a böngésző nyelve)
   ldap_error: "Nem sikerült csatlakozni az LDAP szerverhez. Kérjük, ellenőrizd a beállításokat a környezeti, env fájlban, illetve azt, hogy a szerver működik és elérhető."
   login: Bejelentkezés
@@ -274,8 +274,8 @@ hu_HU:
         signin: A személyre szabott szoba eléréséhez kattints az alábbi gombra és jelentkezz be.
         signin_link: Bejelentkezés
         signup:
-          info: "Egy új felhasználó regisztrált, hogy használhassa a Greenlight-ot."
-          more-info: "Ahhoz, hogy ez a felhasználó elérhesse a Greenlight-ot, a szervezheti beállításokban hozzá kell rendelned."
+          info: "Egy új felhasználó regisztrált, hogy használhassa a e-solutionsgroup-ot."
+          more-info: "Ahhoz, hogy ez a felhasználó elérhesse a e-solutionsgroup-ot, a szervezheti beállításokban hozzá kell rendelned."
           admins_link: A Szervezeti oldal megtekintése
           subject: Új Greenlight felhasználó regisztrált
           username: "A felhasználó %{name} felhasználónévvel, %{email} e-mail címmel regisztrált."
@@ -291,7 +291,7 @@ hu_HU:
         signup_info: Az e-maileddel regisztrációhoz kattints az alábbi lehetőségre és hajtsd végre a lépéseket.
         signup_link: Regisztráció
         signup:
-          info: "Egy meghívott felhasználó regisztrált, hogy használhassa a Greenlight-ot."
+          info: "Egy meghívott felhasználó regisztrált, hogy használhassa a e-solutionsgroup-ot."
           admins_link: A Szervezeti oldal megtekintése
           subject: Új Greenlight felhasználó regisztrált
           username: "A felhasználó %{name} felhasználónévvel, %{email} e-mail címmel regisztrált."

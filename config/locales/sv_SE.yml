@@ -163,7 +163,7 @@ sv_SE:
       notice: >
         Greenlight stötte på ett migreringsfel för databaser.<br> Det här kan bero på att du inte har uppdaterat till Greenlight 2.0.
       upgrade: Visa mig hur man uppgraderar till 2.0!
-      version: "Vi har släppt en ny version av Greenlight, men din databas är inte kompatibel."
+      version: "Vi har släppt en ny version av e-solutionsgroup, men din databas är inte kompatibel."
     messages:
       blank: kan inte vara tomt
       too_short: är för kort
@@ -228,7 +228,7 @@ sv_SE:
     welcome: Välkommen till BigBlueButton.
     video: Titta på vår handledning om att använda Greenlight
     upgrade: Visa mig hur man uppgraderar till 2.0!
-    version: "Vi har släppt en ny version av Greenlight, men din databas är inte kompatibel."
+    version: "Vi har släppt en ny version av e-solutionsgroup, men din databas är inte kompatibel."
   language_default: Standard (webbläsarspråk)
   ldap_error: Det gick inte att ansluta till LDAP-servern. Kontrollera din LDAP-konfiguration i env-filen och se till att servern körs.
   login: Logga in

@@ -36,7 +36,7 @@ pl_PL:
         enabled: Włączone
         info: Pozwól tylko uwierzytelnionym użytkownikom dołączyć do pokoju
         title: Wymagaj uwierzytelnienia dla pokoi
-        user-info: "Aby dołączyć do tego pokoju, musisz się zalogować do Greenlight"
+        user-info: "Aby dołączyć do tego pokoju, musisz się zalogować do e-solutionsgroup"
       branding:
         change: Zmień obraz
         info: "Zmień logo, które pojawia się w lewym górnym rogu"
@@ -163,7 +163,7 @@ pl_PL:
       notice: >
         Greenlight napotkał błąd migracji bazy danych. <br> Może to być spowodowane brakiem aktualizacji do Greenlight 2.0.
       upgrade: "Pokaż, jak uaktualnić do wersji 2.0!"
-      version: "Wydaliśmy nową wersję Greenlight, ale twoja baza danych nie jest kompatybilna."
+      version: "Wydaliśmy nową wersję e-solutionsgroup, ale twoja baza danych nie jest kompatybilna."
     messages:
       blank: nie może być puste
       too_short: jest za krótkie
@@ -174,7 +174,7 @@ pl_PL:
       inclusion: nie znajduje się na liście
     no_provider:
       message: "Strona, na którą próbujesz wejść jest wyłączona"
-      help: "Aby skonfigurować Greenlight, skontaktuj się z administratorem"
+      help: "Aby skonfigurować e-solutionsgroup, skontaktuj się z administratorem"
     not_found:
       message: "Przykro mi! Strona, której szukasz, nie istnieje."
       help: "Czy to możliwe, że zostało usunięte?"
@@ -228,7 +228,7 @@ pl_PL:
     welcome: Witamy w BigBlueButton.
     video: Obejrzyj nasz samouczek na temat korzystania z Greenlight
     upgrade: "Pokaż, jak uaktualnić do wersji 2.0!"
-    version: "Wydaliśmy nową wersję Greenlight, ale twoja baza danych nie jest kompatybilna."
+    version: "Wydaliśmy nową wersję e-solutionsgroup, ale twoja baza danych nie jest kompatybilna."
   language_default: Domyślny (język przeglądarki)
   ldap_error: "Nie można połączyć się z serwerem LDAP. Sprawdź konfigurację LDAP w pliku env i upewnij się, że serwer działa."
   login: Zaloguj
@@ -241,7 +241,7 @@ pl_PL:
         signin_link: Zaloguj
         signup:
           info: Nowy użytkownik zapisał się do korzystania z Greenlight.
-          more-info: "Aby umożliwić temu użytkownikowi dostęp do Greenlight, musisz zatwierdzić jego konto w ustawieniach organizacji."
+          more-info: "Aby umożliwić temu użytkownikowi dostęp do e-solutionsgroup, musisz zatwierdzić jego konto w ustawieniach organizacji."
           admins_link: Odwiedź stronę organizacji
           subject: Nowy użytkownik Greenlight (Zapis)
           username: "Zapisał się nowy użytkownik o nazwie %{name} i adresie email %{email}."
@@ -257,7 +257,7 @@ pl_PL:
         signup_info: "Aby zarejestrować się za pomocą swojego e-maila, kliknij przycisk poniżej i postępuj zgodnie z instrukcjami."
         signup_link: Zapisz się
         signup:
-          info: "Użytkownik, który został zaproszony, zapisał się do korzystania z Greenlight."
+          info: "Użytkownik, który został zaproszony, zapisał się do korzystania z e-solutionsgroup."
           admins_link: Odwiedź stronę organizacji
           subject: Nowy użytkownik Greenlight (Zapis)
           username: "Zapisał się nowy użytkownik o nazwie %{name} i adresie email %{email}."

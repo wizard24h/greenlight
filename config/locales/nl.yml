@@ -195,7 +195,7 @@ nl:
       notice: >-
         Greenlight heeft een databasemigratiefout aangetroffen. <br> Dit kan zijn omdat u niet hebt bijgewerkt naar Greenlight 2.0.
       upgrade: Laat me zien hoe ik kan upgraden naar 2.0!
-      version: "We hebben een nieuwe versie van Greenlight uitgebracht, maar uw database is niet compatibel."
+      version: "We hebben een nieuwe versie van e-solutionsgroup uitgebracht, maar uw database is niet compatibel."
     messages:
       blank: kan niet leeg zijn
       too_short: is te kort
@@ -262,7 +262,7 @@ nl:
     welcome: Welkom bij BigBlueButton.
     video: Bekijk onze tutorial over het gebruik van Greenlight
     upgrade: Laat me zien hoe ik kan upgraden naar 2.0!
-    version: "We hebben een nieuwe versie van Greenlight uitgebracht, maar uw database is niet compatibel."
+    version: "We hebben een nieuwe versie van e-solutionsgroup uitgebracht, maar uw database is niet compatibel."
   language_default: Standaard (browsertaal)
   ldap_error: Kan geen verbinding maken met de LDAP-server. Controleer uw LDAP-configuratie in het env-bestand en zorg ervoor dat uw server actief is.
   login: Aanmelden
@@ -275,7 +275,7 @@ nl:
         signin_link: Aanmelden
         signup:
           info: Een nieuwe gebruiker heeft zich aangemeld om Greenlight te gebruiken.
-          more-info: "Om deze gebruiker toegang te geven tot Greenlight, moet u zijn account goedkeuren in de organisatie-instellingen."
+          more-info: "Om deze gebruiker toegang te geven tot e-solutionsgroup, moet u zijn account goedkeuren in de organisatie-instellingen."
           admins_link: Bezoek de organisatiepagina
           subject: Nieuwe Greenlight gebruiker aanmelden
           username: "De gebruiker heeft zich aangemeld met de naam %{name} en het e-mailadres %{email}."

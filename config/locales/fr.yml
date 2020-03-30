@@ -163,7 +163,7 @@ fr:
       notice: >
         Greenlight a rencontré une erreur de migration de base de données.<br> C'est peut-être parce que vous n'avez pas mis à jour Greenlight 2.0.
       upgrade: Montrez-moi comment passer à la version 2.0 !
-      version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
+      version: "Nous avons publié une nouvelle version de e-solutionsgroup, mais votre base de données n'est pas compatible."
     messages:
       blank: ne peut pas être vide
       too_short: est trop court
@@ -228,7 +228,7 @@ fr:
     welcome: Bienvenue sur BigBlueButton.
     video: Regardez notre tutoriel sur l'utilisation de Greenlight
     upgrade: Montrez-moi comment passer à la version 2.0 !
-    version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
+    version: "Nous avons publié une nouvelle version de e-solutionsgroup, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
   login: Connexion

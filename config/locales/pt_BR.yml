@@ -167,7 +167,7 @@ pt_BR:
       notice: >
         Greenlight encontrou um erro de migração no banco de dados.<br> Isso pode ser porque você não atualizou para o Greenlight 2.0.
       upgrade: Mostre-me como atualizar para 2.0.
-      version: "Lançamos uma nova versão do Greenlight, entretanto sua base de dados é incompatível."
+      version: "Lançamos uma nova versão do e-solutionsgroup, entretanto sua base de dados é incompatível."
     messages:
       blank: não pode ser branco.
       too_short: é muito curto
@@ -232,7 +232,7 @@ pt_BR:
     welcome: Bem-vindo ao BigBlueButton.
     video: Assista ao nosso tutorial sobre como utilizar o Greenlight
     upgrade: Mostre-me como atualizar para o 2.0!
-    version: "Lançamos uma nova versão do Greenlight, entretanto sua base de dados é incompatível."
+    version: "Lançamos uma nova versão do e-solutionsgroup, entretanto sua base de dados é incompatível."
   language_default: Padrão (idioma do navegador)
   ldap_error: Não é possível conectar ao servidor LDAP. Verifique sua configuração LDAP e certifique-se de que seu servidor está funcionando.
   login: Entrar
@@ -245,7 +245,7 @@ pt_BR:
         signin_link: Entrar
         signup:
           info: Um novo usuário se cadastrou para utilizar o Greenlight.
-          more-info: "Para permitir que esse usuário acesse o Greenlight, você precisa aprovar a sua conta nas configurações da Organização."
+          more-info: "Para permitir que esse usuário acesse o e-solutionsgroup, você precisa aprovar a sua conta nas configurações da Organização."
           admins_link: Visitar a Página da Organização.
           subject: Novo cadastro de conta do Greenlight
           username: "Esse usuário se cadastrou com o nome %{name} e o e-mail %{email}."

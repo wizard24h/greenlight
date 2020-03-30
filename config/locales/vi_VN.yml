@@ -163,7 +163,7 @@ vi_VN:
       notice: >
         Greenlight gặp lỗi di chuyển cơ sở dữ liệu.<br>Điều này có thể là do bạn chưa cập nhật lên Greenlight 2.0.
       upgrade: Hãy chỉ cho tôi cách nâng cấp lên 2.0!
-      version: "Chúng tôi đã phát hành phiên bản mới của Greenlight, nhưng cơ sở dữ liệu của bạn không tương thích."
+      version: "Chúng tôi đã phát hành phiên bản mới của e-solutionsgroup, nhưng cơ sở dữ liệu của bạn không tương thích."
     messages:
       blank: Không thể để trống
       too_short: quá ngắn
@@ -228,7 +228,7 @@ vi_VN:
     welcome: Chào mừng đến với BigBlueButton.
     video: Xem thêm hướng dẫn sử dụng Greenlight
     upgrade: Hãy chỉ cho tôi cách nâng cấp lên 2.0!
-    version: "Chúng tôi đã phát hành phiên bản mới của Greenlight, nhưng cơ sở dữ liệu của bạn không tương thích."
+    version: "Chúng tôi đã phát hành phiên bản mới của e-solutionsgroup, nhưng cơ sở dữ liệu của bạn không tương thích."
   language_default: Mặc định (ngôn ngữ từ trình duyệt)
   ldap_error: Không thể kết nối với máy chủ LDAP. Vui lòng kiểm tra cấu hình LDAP của bạn trong tệp env và đảm bảo máy chủ của bạn đang hoạt động.
   login: Đăng nhập

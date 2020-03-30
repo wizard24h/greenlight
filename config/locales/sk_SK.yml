@@ -167,7 +167,7 @@ sk_SK:
       notice: >
         Greenlight zaznamenal chybu pri migrácii databáze.<br> Možným dôvodom je, že ste neurobili upgrade na Greenlight 2.0.
       upgrade: "Návod, ako urobiť upgrade na ver. 2.0!"
-      version: "Vydali sme novú verziu Greenlight, ale Vaša databáza nie je kompatibilná."
+      version: "Vydali sme novú verziu e-solutionsgroup, ale Vaša databáza nie je kompatibilná."
     messages:
       blank: nemôže byť prázdne(y)
       too_short: je príliš krátke
@@ -230,9 +230,9 @@ sk_SK:
   landing:
     about: "%{href} je jednoduchá nadstavba pre Váš open-source webový konferenčný server BigBlueButton. Môžete vytvárať vlastné virtuálne miestnosti pre organizovanie konferencií, alebo sa môžete pripojiť ku konferenciám ostatných užívateľov jednoduchým a pohodlným kliknutím na prijatý odkaz."
     welcome: Vitajte na servri BigBlueButton.
-    video: "Pozrite si videonávod, ako Greenlight používať"
+    video: "Pozrite si videonávod, ako e-solutionsgroup používať"
     upgrade: "Ukážte mi, ako upgradovať na ver. 2.0!"
-    version: "Vydali sme novú verziu Greenlight, ale Vaša databáza nie je kompatibilná."
+    version: "Vydali sme novú verziu e-solutionsgroup, ale Vaša databáza nie je kompatibilná."
   language_default: Predvolený (jazyk prehliadača)
   ldap_error: "Nie je možné pripojiť sa k LDAP servru. Prosím skontrolujte LDAP konfiguráciu v súbore .env a ubezpečte sa, že LDAP server beží."
   login: Prihlásiť

@@ -195,7 +195,7 @@ tr:
       notice: >
         Sistem bir veritabanı taşıma hatasıyla karşılaştı.<br>Bunun nedeni Greenlight 2.0 sürümünü kullanmadığınızdan olabilir. 2.0 sürümüne nasıl yükselteceğimi göster!
       upgrade: "2,0 Sürümüne nasıl yükselteceğimi göster!"
-      version: "Greenlight'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
+      version: "e-solutionsgroup'ın yeni bir sürümünü çıkardık, ancak veritabanınız uyumlu değil."
     messages:
       blank: Boş bırakılamaz
       too_short: Çok kısa

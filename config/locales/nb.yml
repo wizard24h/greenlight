@@ -167,7 +167,7 @@ nb:
       notice: >
         Greenlight har fått en databaseoverføringsfeil. <br> Dette kan være fordi du ikke har oppdatert til Greenlight 2.0.
       upgrade: Vis meg hvordan jeg kan oppgradere til 2.0!
-      version: "Vi har gitt ut en ny versjon av Greenlight, men databasen din er ikke kompatibel."
+      version: "Vi har gitt ut en ny versjon av e-solutionsgroup, men databasen din er ikke kompatibel."
     messages:
       blank: kan ikke være tom
       too_short: er for kort
@@ -232,7 +232,7 @@ nb:
     welcome: Velkommen til BigBlueButton.
     video: Se veiledningen vår om bruk av Greenlight
     upgrade: Vis meg hvordan jeg kan oppgradere til 2.0!
-    version: "Vi har gitt ut en ny versjon av Greenlight, men databasen din er ikke kompatibel."
+    version: "Vi har gitt ut en ny versjon av e-solutionsgroup, men databasen din er ikke kompatibel."
   language_default: Standard (nettleserspråk)
   ldap_error: "Kan ikke koble til LDAP-serveren. Kontroller LDAP-konfigurasjonen i env-filen, og kontroller at serveren din er oppe."
   login: Logg inn
@@ -245,7 +245,7 @@ nb:
         signin_link: Logg inn
         signup:
           info: En ny bruker har meldt seg på for å bruke Greenlight.
-          more-info: "For å gi denne brukeren tilgang til Greenlight, må du godkjenne kontoen i organisasjonsinnstillinger."
+          more-info: "For å gi denne brukeren tilgang til e-solutionsgroup, må du godkjenne kontoen i organisasjonsinnstillinger."
           admins_link: Besøk organisasjonssiden
           subject: Ny Greenlight-bruker melding
           username: "Brukeren registrerte seg med navnet %{name} og epost %{email}."
@@ -261,7 +261,7 @@ nb:
         signup_info: "For å registrere deg ved å bruke e-posten din, klikker du på knappen nedenfor og følger trinnene."
         signup_link: Registrer
         signup:
-          info: "En bruker som ble invitert, har meldt seg på for å bruke Greenlight."
+          info: "En bruker som ble invitert, har meldt seg på for å bruke e-solutionsgroup."
           admins_link: Besøk organisasjonssiden
           subject: Ny Greenlight-brukermelding
           username: "Brukeren registrerte seg med navnet %{name} og epost %{email}."

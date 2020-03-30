@@ -259,7 +259,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your e-solutionsgroup virtual class server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to e-solutionsgroup virtual class.
     video: Visit Our e-solutionsgroup website for more info
     upgrade: Show me how to upgrade to 2.0!

@@ -195,7 +195,7 @@ tr_TR:
       notice: >
         Greenlight veri tabanı aktarımı hatası verdi.<br> Greenlight 2.0. güncelleme yapmadığınız için gerçekleşmiş olabilir
       upgrade: 2.0'a nasıl yükselteceğimi göster!
-      version: "Greenlight'ın yeni bir versiyonunu yayınladık, ancak veritabanınız uyumlu değil."
+      version: "e-solutionsgroup'ın yeni bir versiyonunu yayınladık, ancak veritabanınız uyumlu değil."
     messages:
       blank: boş olamaz
       too_short: çok kısa
@@ -262,7 +262,7 @@ tr_TR:
     welcome: BigBlueButton'a hoş geldiniz.
     video: Greenlight'ı kullanma hakkındaki eğitimimizi izleyin
     upgrade: 2.0'a nasıl yükselteceğimi göster!
-    version: "Greenlight'ın yeni bir versiyonunu yayınladık, ancak veritabanınız uyumlu değil."
+    version: "e-solutionsgroup'ın yeni bir versiyonunu yayınladık, ancak veritabanınız uyumlu değil."
   language_default: Varsayılan (tarayıcı dili)
   ldap_error: LDAP sunucusuna bağlanılamadı. Lütfen env dosyasındaki LDAP konfigürasyonunuzu kontrol ediniz ve sunucunuzun çalıştığından emin olunuz
   login: oturum aç
