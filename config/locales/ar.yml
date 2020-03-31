@@ -1,4 +1,4 @@
-# BigBlueButton open source conferencing system - http://www.bigbluebutton.org/.
+# BigBlueButton   conferencing system - http://www.bigbluebutton.org/.
 #
 # Copyright (c) 2018 BigBlueButton Inc. and by respective authors (see below).
 #
@@ -160,7 +160,7 @@ ar:
         username: اسم المستخدم
       title: إدارة المستخدمين
   add_to_google_calendar: "إضافة إلى تقويم Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton:  e-solutionsgroup
   bigbluebutton_exception: عفوًا ، حدث خطأ عند بدء الاجتماع
   cancel: إلغاء
   cookies:
@@ -180,7 +180,7 @@ ar:
   errors:
     bigbluebutton:
       help: يرجى التأكد من اتخاذ الخطوات المناسبة
-      message: نقطة النهاية والسرية BigBlueButton غير صالحة
+      message: نقطة النهاية والسرية  e-solutionsgroup غير صالحة
       title: خطأ في الخادم
     internal:
       message: يبدو أن هناك خطأ ما من جانبنا.
@@ -259,7 +259,7 @@ ar:
       start: بدء البحث...
   landing:
     about: "%{href} هو واجهة أمامية بسيطة لخادم مؤتمرات الويب المفتوح المصدر BigBlueButton الخاص بك. يمكنك إنشاء غرف خاصة بك لاستضافة الجلسات، أو الانضمام إلى الآخرين باستخدام رابط قصير ومريح. "
-    welcome: مرحبًا بك في BigBlueButton
+    welcome: مرحبًا بك في  e-solutionsgroup
     video: شاهد برنامجنا التعليمي حول استخدام Greenlight
     upgrade: أرني كيفية الترقية إلى 2.0!
     version: لقد أصدرنا إصدارًا جديدًا من Greenlight ، لكن قاعدة البيانات غير متوافقة.
@@ -295,7 +295,7 @@ ar:
           admins_link: زيارة صفحة المؤسسة
           subject: تسجيل مستخدم Greenlight جديد
           username: "سجل المستخدم باسم %{name} والبريد الإلكتروني %{email}."
-        subject: دعوة للانضمام إلى BigBlueButton
+        subject: دعوة للانضمام إلى  e-solutionsgroup
         username: "اسم المستخدم الخاص بك هو %{email}."
       password_reset:
         title: 'إعادة تعيين كلمة المرور'
