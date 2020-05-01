@@ -260,9 +260,9 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "All Competitive exam for classes 1st to 12th and IIT-JEE, NEET, KYPY etc."
-    welcome: India's best Live Class Plateform.
-    video: Click here to know more about removersity
+    about: "Virtual Classroom solution based on bigbluebutton and greenlight"
+    welcome: removersity is our new method to continue our education from home
+    video: Click here to know more about bigbluebutton and greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of removersity, but your database isn't compatible.
   language_default: Default (browser language)
