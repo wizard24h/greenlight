@@ -82,7 +82,7 @@ ar:
       shared_access:
         info: سيؤدي التعطيل إلى إزالة الأيقونة من القائمة المنسدلة لخيارات الغرفة، وبذلك لن يتمكن المستخدمون من مشاركة الغرف
         title: السماح للمستخدمين بمشاركة الغرف
-      subtitle: تخصيص Greenlight
+      subtitle: تخصيص e-solutionsgroup
       title: إعدادات الموقع
     flash:
       approved: تمت الموافقة على المستخدم بنجاح.
@@ -160,7 +160,7 @@ ar:
         username: اسم المستخدم
       title: إدارة المستخدمين
   add_to_google_calendar: "إضافة إلى تقويم Google"
-  bigbluebutton:  removersity
+  bigbluebutton:  e-solutionsgroup
   bigbluebutton_exception: عفوًا ، حدث خطأ عند بدء الاجتماع
   cancel: إلغاء
   cookies:
@@ -180,7 +180,7 @@ ar:
   errors:
     bigbluebutton:
       help: يرجى التأكد من اتخاذ الخطوات المناسبة
-      message: نقطة النهاية والسرية  removersity غير صالحة
+      message: نقطة النهاية والسرية  e-solutionsgroup غير صالحة
       title: خطأ في الخادم
     internal:
       message: يبدو أن هناك خطأ ما من جانبنا.
@@ -193,9 +193,9 @@ ar:
       contact_admin: إذا لم تكن مسؤولاً ، الرجاء الاتصال بأحد المسؤولين.
       continue: أود أن أستمر في استخدام 1.0.
       notice: >
-        واجه Greenlight خطأ في ترحيل قاعدة البيانات. <br>قد يكون هذا بسبب عدم تحديثك إلى Greenlight 2.0.
+        واجه e-solutionsgroup خطأ في ترحيل قاعدة البيانات. <br>قد يكون هذا بسبب عدم تحديثك إلى e-solutionsgroup 2.0.
       upgrade: أرني كيفية الترقية إلى 2.0!
-      version: لقد أصدرنا إصدارًا جديدًا من Greenlight ، لكن قاعدة البيانات غير متوافقة.
+      version: لقد أصدرنا إصدارًا جديدًا من e-solutionsgroup ، لكن قاعدة البيانات غير متوافقة.
     messages:
       blank: لا يمكن أن تكون فارغة
       too_short: قصيرة جدا
@@ -206,7 +206,7 @@ ar:
       inclusion: غير مدرج في القائمة
     no_provider:
       message: لم يتم تمكين الموقع الذي تحاول الوصول إليه
-      help: الرجاء الاتصال بمسؤول النظام لإعداد Greenlight
+      help: الرجاء الاتصال بمسؤول النظام لإعداد e-solutionsgroup
     not_found:
       message: معذرة! الصفحة التي تبحث عنها غير موجودة.
       help: هل من الممكن حذفه؟
@@ -234,7 +234,7 @@ ar:
     email: البريد الإلكتروني
     submit: إرسال
   go_back: عودة
-  greenlight: Greenlight
+  greenlight: e-solutionsgroup
   header:
     all_recordings: كافة التسجيلات
     dropdown:
@@ -259,10 +259,10 @@ ar:
       start: بدء البحث...
   landing:
     about: "%{href} هو واجهة أمامية بسيطة لخادم مؤتمرات الويب المفتوح المصدر BigBlueButton الخاص بك. يمكنك إنشاء غرف خاصة بك لاستضافة الجلسات، أو الانضمام إلى الآخرين باستخدام رابط قصير ومريح. "
-    welcome: مرحبًا بك في  removersity
+    welcome: مرحبًا بك في  e-solutionsgroup
     video: شاهد برنامجنا التعليمي حول استخدام grenlight و bigbluebutton
     upgrade: أرني كيفية الترقية إلى 2.0!
-    version: لقد أصدرنا إصدارًا جديدًا من Greenlight ، لكن قاعدة البيانات غير متوافقة.
+    version: لقد أصدرنا إصدارًا جديدًا من e-solutionsgroup ، لكن قاعدة البيانات غير متوافقة.
   language_default: الافتراضي (لغة المتصفح)
   ldap_error: غير قادر على الاتصال بخادم LDAP. يرجى التحقق من تكوين LDAP في ملف env والتأكد من تشغيل خادمك.
   login: تسجيل الدخول
@@ -274,10 +274,10 @@ ar:
         signin: للوصول إلى غرفك الشخصية، انقر على الزر أدناه وسجّل الدخول.
         signin_link: تسجيل الدخول
         signup:
-          info: قام مستخدم جديد بالتسجيل لاستخدام Greenlight.
-          more-info: للسماح لهذا المستخدم بالوصول إلى Greenlight يجب أن توافق على حسابه في إعدادات المؤسسة.
+          info: قام مستخدم جديد بالتسجيل لاستخدام e-solutionsgroup.
+          more-info: للسماح لهذا المستخدم بالوصول إلى e-solutionsgroup يجب أن توافق على حسابه في إعدادات المؤسسة.
           admins_link: زيارة صفحة المؤسسة
-          subject: جديد Greenlight مستخدم تسجيل
+          subject: جديد e-solutionsgroup مستخدم تسجيل
           username: "سجل المستخدم باسم %{name} والبريد الإلكتروني %{email}."
         subject: الحساب معتمد
         username: "اسم المستخدم الخاص بك هو %{email}."
@@ -291,11 +291,11 @@ ar:
         signup_info: للاشتراك باستخدام بريدك الإلكتروني، انقر على الزر أدناه واتبع الخطوات.
         signup_link: التسجيل
         signup:
-          info: المستخدم المدعو قام بتسجيل الدخول لاستخدام Greenlight.
+          info: المستخدم المدعو قام بتسجيل الدخول لاستخدام e-solutionsgroup.
           admins_link: زيارة صفحة المؤسسة
-          subject: تسجيل مستخدم Greenlight جديد
+          subject: تسجيل مستخدم e-solutionsgroup جديد
           username: "سجل المستخدم باسم %{name} والبريد الإلكتروني %{email}."
-        subject: دعوة للانضمام إلى  removersity
+        subject: دعوة للانضمام إلى  e-solutionsgroup
         username: "اسم المستخدم الخاص بك هو %{email}."
       password_reset:
         title: 'إعادة تعيين كلمة المرور'

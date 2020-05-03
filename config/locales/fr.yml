@@ -66,7 +66,7 @@ fr:
       rooms:
         info:
         title:
-      subtitle: Personnaliser Greenlight
+      subtitle: Personnaliser e-solutionsgroup
       title: Paramètres du site
     flash:
       approved:
@@ -128,7 +128,7 @@ fr:
         username: Nom d'utilisateur
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton:  removersity
+  bigbluebutton:  e-solutionsgroup
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -161,9 +161,9 @@ fr:
       contact_admin: "Si vous n’êtes pas un administrateur, veuillez en contacter un."
       continue: Je veux rester sur la 1.0.
       notice: >
-        Greenlight a rencontré une erreur de migration de base de données.<br> C'est peut-être parce que vous n'avez pas mis à jour Greenlight 2.0.
+        e-solutionsgroup a rencontré une erreur de migration de base de données.<br> C'est peut-être parce que vous n'avez pas mis à jour e-solutionsgroup 2.0.
       upgrade: Montrez-moi comment passer à la version 2.0 !
-      version: "Nous avons publié une nouvelle version de removersity, mais votre base de données n'est pas compatible."
+      version: "Nous avons publié une nouvelle version de e-solutionsgroup, mais votre base de données n'est pas compatible."
     messages:
       blank: ne peut pas être vide
       too_short: est trop court
@@ -202,7 +202,7 @@ fr:
     email: Email
     submit: Soumettre
   go_back: Retour
-  greenlight: Greenlight
+  greenlight: e-solutionsgroup
   header:
     all_recordings: Tous les enregistrements
     dropdown:
@@ -225,10 +225,10 @@ fr:
         footer: 'BigBlueButton est un système   de Web Conférence. Pour plus d''informations sur BigBlueButton, voir https://bigbluebutton.org/.'
   landing:
     about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur  removersity.
-    video: Regardez notre tutoriel sur l'utilisation de Greenlight
+    welcome: Bienvenue sur  e-solutionsgroup.
+    video: Regardez notre tutoriel sur l'utilisation de e-solutionsgroup
     upgrade: Montrez-moi comment passer à la version 2.0 !
-    version: "Nous avons publié une nouvelle version de removersity, mais votre base de données n'est pas compatible."
+    version: "Nous avons publié une nouvelle version de e-solutionsgroup, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
   login: Connexion
@@ -261,7 +261,7 @@ fr:
           admins_link: Visitez la page de l'organisation
           subject:
           username:
-        subject: Invitation à joindre  removersity
+        subject: Invitation à joindre  e-solutionsgroup
         username: "Votre nom d'utilisateur est %{email}."
       password_reset:
         title: 'Réinitialiser le mot de passe'
